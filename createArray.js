@@ -1,3 +1,7 @@
+import emojipedia from "./emojipedia.js"
+
+console.log(emojipedia);
+
 class myArray{
     constructor(){
       this.lenght=0;
